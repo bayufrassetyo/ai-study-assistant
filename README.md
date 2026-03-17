@@ -62,12 +62,24 @@ https://aura-backend-livid.vercel.app/api
 # 🖼️ Screenshot UI
 
 1. Halaman utama chatbot
+   | Chat Interface | Sidebar & Features |
+   | :--- | :--- |
+   | ![Main Chat](screenshots/Tampilan_Awal.png) | ![Sidebar](screenshots/sidebar.png) |
 
 2. Contoh pertanyaan & jawaban AI
+   | Chat Interface | Sidebar & Features |
+   | :--- | :--- |
+   | ![Main Chat](screenshots/Setelah_User_Mengirim_Pertanyaan.png) | ![Sidebar](screenshots/sidebar.png) |
 
 3. Sidebar Example Questions
+   | Chat Interface | Sidebar & Features |
+   | :--- | :--- |
+   | ![Main Chat](screenshots/Quick_Questions_Sidebar.png) | ![Sidebar](screenshots/sidebar.png) |
 
 4. Download Chat History
+   | Chat Interface | Sidebar & Features |
+   | :--- | :--- |
+   | ![Main Chat](screenshots/Download_Chat.png) | ![Sidebar](screenshots/sidebar.png) |
 
 ---
 
