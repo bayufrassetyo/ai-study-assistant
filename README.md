@@ -61,29 +61,29 @@ https://aura-backend-livid.vercel.app/api
 
 # 🖼️ Screenshot UI
 
-1.  Halaman utama chatbot
-    | 💬 Chat Interface | 🛠️ Sidebar & Features |
-    | :--- | :--- |
-    | ![Main Chat](screenshots/full_tampilan_awal.png) | ![Sidebar UI](screenshots/tampilan_awal.png) |
-    | _Tampilan interaksi tanya jawab AI._ | _Akses cepat: Clear Chat & Contoh Pertanyaan._ |
+1. Halaman utama chatbot
+   | Chat Interface | Sidebar & Features |
+   | :--- | :--- |
+   | ![Main Chat](screenshots/full_tampilan_awal.png) | **Fungsi Sidebar:** <br> 1. **Clear Chat**: Menghapus riwayat percakapan. <br> 2. **Try Questions**: Contoh pertanyaan siap klik untuk belajar AI. <br> 3. **Download**: Menyimpan hasil belajar ke file .txt. |
+   | _Tampilan utama chat interaktif_ | ![Sidebar UI](screenshots/sidebar.png) |
 
-2.  Contoh pertanyaan & jawaban AI
-    | 💬 Chat Interface | 🛠️ Sidebar & Features |
-    | :--- | :--- |
-    | ![Main Chat](screenshots/tampilan_interface_bertanya.png) | ![Sidebar UI](screenshots/hasil_bertanya.png) |
-    | _Tampilan interaksi tanya jawab AI._ | _Akses cepat: Clear Chat & Contoh Pertanyaan._ |
+2. Contoh pertanyaan & jawaban AI
+   | Chat Interface | Sidebar & Features |
+   | :--- | :--- |
+   | ![Main Chat](screenshots/tampilan_interface_bertanya.png) | **Fungsi Sidebar:** <br> 1. **Clear Chat**: Menghapus riwayat percakapan. <br> 2. **Try Questions**: Contoh pertanyaan siap klik untuk belajar AI. <br> 3. **Download**: Menyimpan hasil belajar ke file .txt. |
+   | _Tampilan utama chat interaktif_ | ![Sidebar UI](screenshots/sidebar.png) |
 
-3.  Sidebar Example Questions
-    | 💬 Chat Interface | 🛠️ Sidebar & Features |
-    | :--- | :--- |
-    | ![Main Chat](screenshots/Try question.png) | ![Sidebar UI](screenshots/hasil_bertanya.png) |
-    | _Tampilan interaksi tanya jawab AI._ | _Akses cepat: Clear Chat & Contoh Pertanyaan._ |
+3. Sidebar Example Questions
+   | Chat Interface | Sidebar & Features |
+   | :--- | :--- |
+   | ![Main Chat](screenshots/hasil_bertanya.png) | **Fungsi Sidebar:** <br> 1. **Clear Chat**: Menghapus riwayat percakapan. <br> 2. **Try Questions**: Contoh pertanyaan siap klik untuk belajar AI. <br> 3. **Download**: Menyimpan hasil belajar ke file .txt. |
+   | _Tampilan utama chat interaktif_ | ![Sidebar UI](screenshots/sidebar.png) |
 
-4.  Download Chat History
-    | 💬 Chat Interface | 🛠️ Sidebar & Features |
-    | :--- | :--- |
-    | ![Main Chat](screenshots/download_chat.png) | ![Sidebar UI](screenshots/hasil_download_chat.png) |
-    | _Tampilan interaksi tanya jawab AI._ | _Akses cepat: Clear Chat & Contoh Pertanyaan._ |
+4. Download Chat History
+   | Chat Interface | Sidebar & Features |
+   | :--- | :--- |
+   | ![Main Chat](screenshots/hasil_download_chat.png) | **Fungsi Sidebar:** <br> 1. **Clear Chat**: Menghapus riwayat percakapan. <br> 2. **Try Questions**: Contoh pertanyaan siap klik untuk belajar AI. <br> 3. **Download**: Menyimpan hasil belajar ke file .txt. |
+   | _Tampilan utama chat interaktif_ | ![Sidebar UI](screenshots/sidebar.png) |
 
 ---
 
