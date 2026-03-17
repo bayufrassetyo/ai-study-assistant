@@ -92,7 +92,7 @@ ai-study-assistant/
 # 🔗 Link GitHub
 
 ```bash
-https://github.com/username/ai-study-assistant
+https://github.com/bayufrassetyo/ai-study-assistant
 ```
 
 ---
