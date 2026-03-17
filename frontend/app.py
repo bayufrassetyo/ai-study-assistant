@@ -14,21 +14,34 @@ st.title("📚 AI Study Assistant")
 
 # Sidebar
 with st.sidebar:
+    st.image("https://cdn-icons-png.flaticon.com/512/3449/3449462.png", width=80) # Ikon Buku/AI
+    st.title("Study Guide")
+    st.info("Gunakan chatbot ini untuk bertanya seputar Python, AI, dan Machine Learning.")
+    
+    st.divider() # Garis pemisah yang rapi
+    
     st.header("Options")
-    if st.button("Clear Chat"):
+    if st.button("🗑️ Clear Chat", use_container_width=True):
         st.session_state.messages = []
         st.rerun()
 
-    st.header("Try Questions")
+    st.header("💡 Try Questions")
     for q in EXAMPLE_QUESTIONS:
-        if st.button(q):
-            send_message(q, st.session_state.messages)
+        if st.button(q, use_container_width=True):
+            with st.spinner("Thinking..."):
+                send_message(q, st.session_state.messages)
             st.rerun()
 
 # User Input
 user_input = st.chat_input("Ask something...")
 if user_input:
-    send_message(user_input, st.session_state.messages)
+    with st.spinner("🤖 Asisten sedang merangkum jawaban..."):
+        send_message(user_input, st.session_state.messages)
+    st.rerun()
+
+# Welcome Message
+if not st.session_state.messages:
+    st.chat_message("assistant").write("Halo! Saya asisten belajarmu. Ada konsep AI atau kode Python yang ingin kamu tanyakan hari ini?")
 
 # Display chat
 display_chat(st.session_state.messages)
