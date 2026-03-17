@@ -63,23 +63,23 @@ https://aura-backend-livid.vercel.app/api
 
 1. Halaman utama chatbot
    | Chat Interface | Sidebar & Features |
-   | :--- | :--- |
-   | ![Main Chat](screenshots/sidebar.png) | ![Sidebar](screenshots/Tampilan_Awal.png) |
+   | :---: | :---: |
+   | <img src="screenshots/Tampilan_Awal.png" width="400"> | <img src="screenshots/sidebar.png" width="400"> |
 
 2. Contoh pertanyaan & jawaban AI
    | Chat Interface | Sidebar & Features |
-   | :--- | :--- |
-   | ![Main Chat](screenshots/sidebar.png) | ![Sidebar](screenshots/Setelah_User_Mengirim_Pertanyaan.png) |
+   | :---: | :---: |
+   | <img src="screenshots/Setelah_User_Mengirim_Pertanyaan.png" width="400"> | <img src="screenshots/sidebar.png" width="400"> |
 
 3. Sidebar Example Questions
    | Chat Interface | Sidebar & Features |
-   | :--- | :--- |
-   | ![Main Chat](screenshots/sidebar.png) | ![Sidebar](screenshots/Quick_Questions_Sidebar.png.png) |
+   | :---: | :---: |
+   | <img src="screenshots/Quick_Questions_Sidebar.png" width="400"> | <img src="screenshots/sidebar.png" width="400"> |
 
 4. Download Chat History
    | Chat Interface | Sidebar & Features |
-   | :--- | :--- |
-   | ![Main Chat](screenshots/sidebar.png) | ![Sidebar](screenshots/Download_Chat.png) |
+   | :---: | :---: |
+   | <img src="screenshots/Download_Chat.png" width="400"> | <img src="screenshots/sidebar.png" width="400"> |
 
 ---
 
