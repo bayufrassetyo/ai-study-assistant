@@ -64,7 +64,7 @@ https://aura-backend-livid.vercel.app/api
 1. Halaman utama chatbot
    | Chat Interface | Sidebar & Features |
    | :--- | :--- |
-   | ![Main Chat](screenshots/full_tampilan_awal.png) | **Fungsi Sidebar:** <br> 1. **Clear Chat**: Menghapus riwayat percakapan. <br> 2. **Try Questions**: Contoh pertanyaan siap klik untuk belajar AI. <br> 3. **Download**: Menyimpan hasil belajar ke file .txt. |
+   | ![Main Chat](screenshots/tampilan_awal1.png) | **Fungsi Sidebar:** <br> 1. **Clear Chat**: Menghapus riwayat percakapan. <br> 2. **Try Questions**: Contoh pertanyaan siap klik untuk belajar AI. <br> 3. **Download**: Menyimpan hasil belajar ke file .txt. |
    | _Tampilan utama chat interaktif_ | ![Sidebar UI](screenshots/sidebar.png) |
 
 2. Contoh pertanyaan & jawaban AI
