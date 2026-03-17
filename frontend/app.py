@@ -17,11 +17,13 @@ with st.sidebar:
     st.header("Options")
     if st.button("Clear Chat"):
         st.session_state.messages = []
+        st.rerun()
 
     st.header("Try Questions")
     for q in EXAMPLE_QUESTIONS:
         if st.button(q):
             send_message(q, st.session_state.messages)
+            st.rerun()
 
 # User Input
 user_input = st.chat_input("Ask something...")

@@ -13,7 +13,7 @@ def get_ai_reply(message: str) -> str:
 
 def send_message(message: str, messages_list: list):
     timestamp = datetime.now().strftime("%H:%M:%S")
-    messages_list.append(("user", f"{message} ({timestamp})"))
+    messages_list.append(("user", f"{message} (Sent at {timestamp})"))
 
     loading_messages = [
         "🤔 AI is thinking...",
@@ -22,4 +22,4 @@ def send_message(message: str, messages_list: list):
         "✨ Generating answer..."
     ]
     ai_reply = get_ai_reply(message)
-    messages_list.append(("assistant", f"{ai_reply} ({timestamp})"))
+    messages_list.append(("assistant", f"{ai_reply} (Replied at {timestamp})"))
